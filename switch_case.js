@@ -10,6 +10,12 @@ switch(grade){
     case 'C':
     document.write("just pass:");
     break;
+    case 'D':
+    document.write("study hard");
+    break;
+    case 'E':
+    document.write("study very hard");
+    break;
     default:
-    document.write("fail");
+    document.write("FAIL");
 }
